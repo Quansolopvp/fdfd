@@ -516,7 +516,9 @@ do
 			"RFG",
    			"NorthernExpedition",
    			"GoldenTide",
-   			"NewYear"
+   			"NewYear",
+			"ATLANTEANSTORM",
+   			"SORRYGUYS"
 		 }
 
 		Section:Button({Name = "Redeem All Codes", Callback = function()
