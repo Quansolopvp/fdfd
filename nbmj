@@ -1173,7 +1173,9 @@ local x2Code = {
    "RFG",
    "NorthernExpedition",
    "GoldenTide",
-   "NewYear"
+   "NewYear",
+   "ATLANTEANSTORM",
+   "SORRYGUYS"
 }
 local RedeemBut = misc:CreateButton({
    Name = "🎮 Redeem All Codes",
