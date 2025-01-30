@@ -1175,7 +1175,8 @@ local x2Code = {
    "GoldenTide",
    "NewYear",
    "ATLANTEANSTORM",
-   "SORRYGUYS"
+   "SORRYGUYS",
+   "CARBON"
 }
 local RedeemBut = misc:CreateButton({
    Name = "🎮 Redeem All Codes",
@@ -1503,6 +1504,8 @@ local themes = setting:CreateDropdown({
          end
    end,
 })
+
+Rayfield:LoadConfiguration()
 
 Rayfield:Notify({
    Title = "Skull Hub",
